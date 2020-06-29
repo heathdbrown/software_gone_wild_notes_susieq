@@ -5,4 +5,6 @@ Podcast notes on SusieQ
 
 [Github Link](https://github.com/netenglabs/suzieq)
 
-Very interesting project that gathers network information
+Very interesting project that gathers network information using multiple different ways, using textfsm.
+
+Similar to what I have seen before with gathing information and placing into a database to be able to query network information. (netbrain, internal systems)
